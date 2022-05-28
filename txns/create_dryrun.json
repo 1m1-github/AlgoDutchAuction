@@ -1,0 +1,283 @@
+{
+  "accounts": [
+    {
+      "address": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+      "amount": 65140583,
+      "amount-without-pending-rewards": 65140583,
+      "apps-local-state": [
+        {
+          "id": 67119462,
+          "schema": {
+            "num-byte-slice": 0,
+            "num-uint": 0
+          }
+        },
+        {
+          "id": 91696876,
+          "schema": {
+            "num-byte-slice": 0,
+            "num-uint": 0
+          }
+        },
+        {
+          "id": 92065044,
+          "schema": {
+            "num-byte-slice": 0,
+            "num-uint": 0
+          }
+        },
+        {
+          "id": 92456521,
+          "schema": {
+            "num-byte-slice": 0,
+            "num-uint": 2
+          }
+        }
+      ],
+      "apps-total-schema": {
+        "num-byte-slice": 3,
+        "num-uint": 16
+      },
+      "assets": [
+        {
+          "amount": 18446744073709551615,
+          "asset-id": 78585497,
+          "is-frozen": false
+        },
+        {
+          "amount": 18446744073709551615,
+          "asset-id": 78585796,
+          "is-frozen": false
+        },
+        {
+          "amount": 999999980,
+          "asset-id": 91697272,
+          "is-frozen": false
+        },
+        {
+          "amount": 999999970,
+          "asset-id": 92125658,
+          "is-frozen": false
+        }
+      ],
+      "created-apps": [
+        {
+          "id": 67119462,
+          "params": {
+            "approval-program": "BSADAAECMRkiEkAAITEZIxJAAJgxGSQSQACRMRmBBBJAAHkxGYEFEkAAgUIApzYaAIAETE9DSxJAABI2GgCABlVOTE9DSxJAACZCAIgxFiMSRCI4BzIKEkQiOBEiEkQiOBAjEkQyBCQSREIAAEIAZzEAMgkSREIAADYaARc2GgIXNhoDFzYcAogAJDIACDIJiAAcNhwBiAAWQgA7MgQjEjIJMQASEEAALkIAKUIAJksBQQAeSwGBoI0GDEEACklgIhJBAANCAAqxI7IQsgeyCLOJSEiJIkMjQw==",
+            "clear-state-program": "BYEB",
+            "creator": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY"
+          }
+        },
+        {
+          "id": 92065044,
+          "params": {
+            "approval-program": "BiAEAQAEAiYBAW4xGSMSQAAgMRkiEkAB4zEZJRJAAdkxGSQSQAHEMRmBBRJAAbxCAc02GgCABnVwZGF0ZRJAASg2GgCABHN3YXASQABDNhoAgAh3aXRoZHJhdxJAALc2GgCABW9wdGluEkABX0IBjzIKTElBAANCAANIYIlwAEiJNAxBAANCAAQzAAiJMwASiTIEJRJEMRYiEkQzABE1DDYwADURI4gAqmQ1EjQSNAwSNBI0ERIbRDQMiP+zNQA0EYj/rDUBNAxkNQI0EWQ1A4j/rjUEIjQANAQINAAKNAI0AwqUCTQBCzUFNBFBAANCABCxIrIQMQCyBzQFsgizQgD/sSSyEDEAshQ0BbISNBGyEbNCAOtCAOYjKGVIiSM1Coj/9TUPNA9BACcoaTQKiAAhNRA0EGQ1DDQQaTQMaTQKIgg0DwxBAAk0CiIINQpC/9uJKEwWVwcBUIlJQQAIMgpMcAAiEkRIiTIJMQASRDIEIhJEMTGBCgxEiP+hKDExZyM1DiM1CjQKwDA1DDQMiP/JNAoiCMAaFzUNNA00Dgg1DjQMFjQNZzQKiP+mNAwWZzQKIgg1CjQKMTEMQQADQv/FNA6BkE4SREIANTIJMQASRDIEIhJEsSSyEDIKshQjshI2MACyEbNCABYyBCISRDIJMQASREIACEIAA0IAAiNDIkM=",
+            "clear-state-program": "BoEB",
+            "creator": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "global-state": [
+              {
+                "key": "AAAAAAAAAAA=",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 600
+                }
+              },
+              {
+                "key": "AAAAAAV9udo=",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 400
+                }
+              },
+              {
+                "key": "bg==",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 3
+                }
+              },
+              {
+                "key": "bgA=",
+                "value": {
+                  "bytes": "AAAAAAV3MHg=",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "bgE=",
+                "value": {
+                  "bytes": "AAAAAAAAAAA=",
+                  "type": 1,
+                  "uint": 0
+                }
+              },
+              {
+                "key": "AAAAAAV3MHg=",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 9000
+                }
+              },
+              {
+                "key": "bgI=",
+                "value": {
+                  "bytes": "AAAAAAV9udo=",
+                  "type": 1,
+                  "uint": 0
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 3,
+              "num-uint": 4
+            }
+          }
+        },
+        {
+          "id": 92456521,
+          "params": {
+            "approval-program": "BiAEAQAEAiYBAW4xGSMSQAAgMRkiEkAB7zEZJRJAAeUxGSQSQAHQMRmBBRJAAchCAdk2GgCABnVwZGF0ZRJAATQ2GgCABHN3YXASQABKNhoAgAh3aXRoZHJhdxJAAMM2GgCABW9wdGluEkABa0IBmzIKTEkjFhJAAANCAANIYIkXcABIiTQMIxYSQAADQgAEMwAIiTMAEokyBCUSRDEWIhJEMwARFjUMNjAAFjURI4gArWQ1EjQSNAwSNBI0ERIbRDQMiP+qNQA0EYj/ozUBNAxkNQI0EWQ1A4j/qTUEIjQANAQINAAKNAI0AwqUCTQBCzUFNBEjFhJAAANCABCxIrIQMQCyBzQFsgizQgD/sSSyEDEAshQ0BbISNBGyEbNCAOtCAOYjKGVIiSM1Coj/9TUPNA9BACcoaTQKiAAhNRA0EGQ1DDQQaTQMaTQKIgg0DwxBAAk0CiIINQpC/9uJKEwWVwcBUIlJQQAIMgpMcAAiEkRIiTIJMQASRDIEIhJEMTGBCgxEiP+hKDExZyM1DiM1CjQKwDA1DDQMiP/JNAoiCMAaFzUNNA00Dgg1DjQMFjQNZzQKiP+mNAwWZzQKIgg1CjQKMTEMQQADQv/FNA6BkE4SREIANTIJMQASRDIEIhJEsSSyEDIKshQjshI2MACyEbNCABYyBCISRDIJMQASREIACEIAA0IAAiNDIkM=",
+            "clear-state-program": "BoEB",
+            "creator": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "global-state-schema": {
+              "num-byte-slice": 0,
+              "num-uint": 10
+            },
+            "local-state-schema": {
+              "num-byte-slice": 0,
+              "num-uint": 2
+            }
+          }
+        }
+      ],
+      "created-assets": [
+        {
+          "index": 78585497,
+          "params": {
+            "creator": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "decimals": 0,
+            "manager": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "name": "2i2i",
+            "name-b64": "MmkyaQ==",
+            "total": 18446744073709551615,
+            "unit-name": "2i2i",
+            "unit-name-b64": "MmkyaQ==",
+            "url": "https://about.2i2i.app",
+            "url-b64": "aHR0cHM6Ly9hYm91dC4yaTJpLmFwcA=="
+          }
+        },
+        {
+          "index": 78585796,
+          "params": {
+            "creator": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "decimals": 0,
+            "manager": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "name": "2i2i",
+            "name-b64": "MmkyaQ==",
+            "reserve": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "total": 18446744073709551615,
+            "unit-name": "2i2i",
+            "unit-name-b64": "MmkyaQ==",
+            "url": "https://about.2i2i.app",
+            "url-b64": "aHR0cHM6Ly9hYm91dC4yaTJpLmFwcA=="
+          }
+        },
+        {
+          "index": 91697272,
+          "params": {
+            "clawback": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "creator": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "decimals": 0,
+            "freeze": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "manager": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "reserve": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "total": 1000000000,
+            "unit-name": "NOVALUE",
+            "unit-name-b64": "Tk9WQUxVRQ=="
+          }
+        },
+        {
+          "index": 92125658,
+          "params": {
+            "clawback": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "creator": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "decimals": 0,
+            "freeze": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "manager": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "reserve": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+            "total": 1000000000,
+            "unit-name": "NOVALUE",
+            "unit-name-b64": "Tk9WQUxVRQ=="
+          }
+        }
+      ],
+      "min-balance": 1806000,
+      "pending-rewards": 0,
+      "reward-base": 27521,
+      "rewards": 0,
+      "round": 21857057,
+      "status": "Offline",
+      "total-apps-opted-in": 4,
+      "total-assets-opted-in": 4,
+      "total-created-apps": 3,
+      "total-created-assets": 4
+    }
+  ],
+  "apps": [
+    {
+      "id": 1380011588,
+      "params": {
+        "approval-program": "BiACAAExGCISQABmMRkiEkAAIjEZIxJAAFUxGYECEkAASjEZgQQSQAA0MRmBBRJAACxCAFs2GgCABmNvbW1pdBJAABQ2GgCACHdpdGhkcmF3EkAABkIAOEIAN0IANDIEIxJEMgkxABJEQgAmQgAhQgAggANDQ1k2MABngANUS042MAFngAJTQjYaABdnQv98IkMjQw==",
+        "clear-state-program": "BoEB",
+        "creator": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+        "global-state-schema": {
+          "num-byte-slice": 0,
+          "num-uint": 10
+        },
+        "local-state-schema": {
+          "num-byte-slice": 0,
+          "num-uint": 2
+        }
+      }
+    }
+  ],
+  "latest-timestamp": 1653697827,
+  "protocol-version": "https://github.com/algorandfoundation/specs/tree/d5ac876d7ede07367dbaa26e149aa42589aac1f7",
+  "round": 21857057,
+  "sources": null,
+  "txns": [
+    {
+  "txn": {
+    "apaa": [
+      "AAAAAAAAABc="
+    ],
+    "apan": 1,
+    "apap": "BiACAAExGCISQABmMRkiEkAAIjEZIxJAAFUxGYECEkAASjEZgQQSQAA0MRmBBRJAACxCAFs2GgCABmNvbW1pdBJAABQ2GgCACHdpdGhkcmF3EkAABkIAOEIAN0IANDIEIxJEMgkxABJEQgAmQgAhQgAggANDQ1k2MABngANUS042MAFngAJTQjYaABdnQv98IkMjQw==",
+    "apas": [
+      91697272,
+      92125658
+    ],
+    "apgs": {
+      "nui": 10
+    },
+    "apls": {
+      "nui": 2
+    },
+    "apsu": "BoEB",
+    "fee": 1000,
+    "fv": 21857057,
+    "gh": "SGO1GKSzyE7IEPItTxCByw9x8FmnrCDexi9/cOUJOiI=",
+    "lv": 21858057,
+    "note": "OHWMmHSegoo=",
+    "snd": "2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY",
+    "type": "appl"
+  }
+}
+  ]
+}
